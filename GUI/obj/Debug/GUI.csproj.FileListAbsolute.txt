@@ -1,0 +1,43 @@
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\bin\Debug\GUI.exe.config
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\bin\Debug\GUI.exe
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\bin\Debug\GUI.pdb
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.exe
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.pdb
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\bin\Debug\Dos.Common.dll
+C:\Users\vanko\OneDrive\Desktop\Email Project\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Desktop\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.pdb
+C:\Users\user\source\repos\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.exe
+C:\Users\user\source\repos\emailApp-master (1)\emailApp-master\GUI\obj\Debug\GUI.pdb
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.exe
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.pdb
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\Dos.Common.dll
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\EASendMail45.dll
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.exe
+C:\Users\ykw06\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.pdb
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.exe
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\Dos.Common.dll
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\bin\Debug\EASendMail45.dll
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\emailApp-master\emailApp-master\GUI\obj\Debug\GUI.pdb
